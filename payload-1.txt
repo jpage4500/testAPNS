@@ -1,0 +1,8 @@
+{
+    "aps": {
+        "alert": "message",
+        "badge": 99,
+        "sound": "default"
+    },
+    "myField": 54758
+}
